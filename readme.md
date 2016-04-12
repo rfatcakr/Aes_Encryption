@@ -1,0 +1,1 @@
+Using rijndael algorith and compression of text with AES 128,192 or 256 bit alorithm.
